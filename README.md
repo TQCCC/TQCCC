@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on https://tsingyanresearch.cn/
 
 <!--
 **TQCCC/TQCCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
