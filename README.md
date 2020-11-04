@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+- ⚡ Fun fact: Go, Java, SQL
+
 [![TQCCC's github stats](https://github-readme-stats.vercel.app/api?username=TQCCC)](https://github.com/TQCCC)
 
 <!--
@@ -14,5 +17,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
