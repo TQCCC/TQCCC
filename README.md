@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- ⚡ Fun fact: Go, Java, SQL
+- ⚡ Fun fact: Java, Golang, SQL
 
 [![TQCCC's github stats](https://github-readme-stats.vercel.app/api?username=TQCCC)](https://github.com/TQCCC)
 
